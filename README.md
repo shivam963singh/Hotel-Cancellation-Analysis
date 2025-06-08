@@ -57,6 +57,10 @@ Git & GitHub: Version control and project documentation.
   Exported the cleaned and processed dataset from Jupyter Notebook.
   Imported data into Power BI to create an interactive dashboard.
 
+
+<img src = 'https://github.com/shivam963singh/Hotel-Cancellation-Analysis/blob/main/Screenshot%202025-06-08%20170500.png'>
+
+
 <h2>Dashboard features:</h2>
 
 Summary metrics: Total bookings, cancellation rate, average lead time.
